@@ -7,3 +7,5 @@ print(c)
 d = 6
 print(c+d)
 print("I'm main")
+print(d)
+print("dev")
