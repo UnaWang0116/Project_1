@@ -6,3 +6,4 @@ c = 3
 print(c)
 d = 6
 print(c+d)
+print("I'm main")
